@@ -1,6 +1,5 @@
 
  {
-"settingsInheritedFrom": "nataliekenat/whitesource-config@main",
   "scanSettings": {
     "configMode": "LOCAL",
     "configExternalURL": "",
