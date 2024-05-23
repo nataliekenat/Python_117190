@@ -1,7 +1,7 @@
 
  {
   "scanSettings": {
-    "configMode": "AUTO",
+    "configMode": "LOCAL",
     "configExternalURL": "",
     "baseBranches": [],
     "enableIaC": false
