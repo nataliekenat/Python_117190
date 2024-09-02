@@ -74,7 +74,7 @@ pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycodestyle==2.8.0
 pycparser==2.21
-pydantic==1.10.7
+pydantic==1.10.13
 PyHive==0.6.5
 PyJWT==2.7.0
 pymongo==4.3.3
