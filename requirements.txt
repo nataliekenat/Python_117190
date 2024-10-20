@@ -41,7 +41,7 @@ install==1.3.5
 isodate==0.6.1
 itsdangerous==2.1.2
 Jinja2==3.1.2
-langchain==0.0.198
+langchain==0.2.5
 langchainplus-sdk==0.0.8
 lz4==4.3.2
 Mako==1.2.4
