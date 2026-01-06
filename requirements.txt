@@ -46,7 +46,7 @@ langchainplus-sdk==0.0.8
 lz4==4.3.2
 Mako==1.2.4
 MarkupSafe==2.1.1
-marshmallow==3.19.0
+marshmallow==3.26.2
 marshmallow-enum==1.5.1
 msal==1.22.0
 msal-extensions==1.0.0
