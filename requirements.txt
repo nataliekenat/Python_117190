@@ -6,7 +6,7 @@ async-timeout==4.0.2
 attrs==23.1.0
 autopep8==1.6.0
 azure-ai-contentsafety==1.0.0b1
-azure-core==1.26.4
+azure-core==1.38.0
 azure-cosmos==4.3.1
 azure-identity==1.13.0
 azure-servicebus==7.10.0
