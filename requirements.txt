@@ -89,7 +89,7 @@ six==1.16.0
 SQLAlchemy==1.4.48
 sqlalchemy-databricks==0.2.0
 tenacity==8.2.2
-thrift==0.16.0
+thrift==0.24.0
 toml==0.10.2
 tqdm==4.65.0
 typing-inspect==0.8.0
