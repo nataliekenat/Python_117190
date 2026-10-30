@@ -54,7 +54,7 @@ multidict==6.0.4
 mypy-extensions==1.0.0
 numexpr==2.8.4
 numpy==1.24.3
-oauthlib==3.2.2
+oauthlib==4.0.0
 openai==0.27.6
 openapi-schema-pydantic==1.2.4
 opencensus==0.11.2
